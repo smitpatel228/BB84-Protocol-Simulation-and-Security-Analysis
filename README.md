@@ -52,4 +52,3 @@ jupyter notebook BB84_Trial_5.ipynb
 ## 👤 Author
 
 Smit Patel
-M.Tech Quantum Technology, IISc
